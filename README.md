@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors_Tkinter
 
-Rock Paper Scissors game in tkinter :)
+Rock Paper Scissors game GUI 
